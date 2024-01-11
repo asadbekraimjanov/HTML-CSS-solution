@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(240, 199, 65);
+}
+.card {
+  border: 2px solid #3f3f3f;
+  width: 30%;
+  border-radius: 20px;
+  margin: 100px 400px;
+  box-shadow: 10px 10px 0 0px #000;
+}
+.main-image {
+  align-self: center;
+  margin-top: 20px;
+  border-radius: 5px;
+  outline: none;
+}
+.main-image svg {
+  border-radius: 10px;
+}
+.btn {
+  width: 25%;
+  background-color: rgb(240, 199, 65);
+  margin: 25px;
+  font-weight: 800;
+}
+.btn:hover {
+  background-color: rgb(240, 199, 65);
+}
+.card p {
+  margin-top: -10px;
+  margin-left: 25px;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.card h3 {
+  margin: 25px;
+  margin-top: 15px;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 800;
+  color: #000;
+  cursor: pointer;
+}
+.card h3:hover {
+  color: rgb(240, 199, 65);
+}
+.text {
+  color: gray;
+}
+.box-ava {
+  height: 50px;
+  margin: 20px 0 10px 25px;
+}
+.box-ava img {
+  width: 35px;
+  height: 35px;
+  cursor: pointer;
+}
+.box-ava span {
+  margin-left: 10px;
+  font-weight: 700;
+}
